@@ -1,6 +1,8 @@
 # Odroid_HC2
 Installation Armbian + OMV
+
 Armbian_26.2.1_Odroidxu4_trixie_current_6.6.122_minimal.img.xz
+
 https://dl.armbian.com/odroidxu4/Trixie_current_minimal
 
 Armbian_25.11.1_Odroidxu4_trixie_current_6.6.113_minimal.img.xz
