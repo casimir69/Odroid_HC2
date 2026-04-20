@@ -1,5 +1,7 @@
-# Odroid_HC2
-Installation Armbian + OMV
+# Odroid_HC2 (Samsung Exynos5422 2.0/1.4 GHz | 8 cores | ARMv8)
+
+DietPi
+https://dietpi.com/downloads/images/DietPi_OdroidXU4-ARMv7-Trixie.img.xz
 
 Armbian_26.2.1_Odroidxu4_trixie_current_6.6.122_minimal.img.xz
 
