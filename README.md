@@ -1,4 +1,4 @@
-# Odroid_HC2 (Samsung Exynos5422 2.0/1.4 GHz | 8 cores | ARMv8)
+# Odroid_HC2 (Samsung Exynos5422 2.0/1.4 GHz | 8 cores | ARMv7-A)
 
 DietPi (Debian12 bookworm)
 
