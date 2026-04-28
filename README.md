@@ -2,13 +2,7 @@
 
 DietPi
 
-https://dietpi.com/downloads/images/DietPi_OdroidXU4-ARMv7-Trixie.img.xz
-
-Armbian_26.2.1_Odroidxu4_trixie_current_6.6.122_minimal.img.xz
-
-https://dl.armbian.com/odroidxu4/Trixie_current_minimal
-
-Armbian_25.11.1_Odroidxu4_trixie_current_6.6.113_minimal.img.xz
+https://dietpi.com/downloads/images/DietPi_OdroidXU4-ARMv7-Bookworm.img.xz
 
 https://armbian.atomonetworks.com/archive/odroidxu4/archive/
 
@@ -16,8 +10,14 @@ https://armbian.atomonetworks.com/archive/odroidxu4/archive/
 
 DietPi
 
-https://dietpi.com/downloads/images/DietPi_OdroidHC4-ARMv8-Trixie.img.xz
+https://dietpi.com/downloads/images/DietPi_OdroidHC4-ARMv8-Bookworm.img.xz
 
-Armbian_26.2.1_Odroidhc4_trixie_current_6.18.10-omv_minimal
+Armbian
 
-https://dl.armbian.com/odroidhc4/Trixie_current_minimal-omv
+https://armbian.atomonetworks.com/archive/odroidhc4/archive/Armbian_25.5.1_Odroidhc4_bookworm_current_6.12.28_minimal.img.xz
+
+
+
+
+
+
