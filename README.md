@@ -12,11 +12,13 @@ DietPi
 
 https://dietpi.com/downloads/images/DietPi_OdroidHC4-ARMv8-Bookworm.img.xz
 
+Attention avec DietPi, il faut installer OpenSSH et B..... et désactiver systemd.resolved sinon problème avec la conf DNS
+
 Armbian
 
 https://armbian.atomonetworks.com/archive/odroidhc4/archive/Armbian_25.5.1_Odroidhc4_bookworm_current_6.12.28_minimal.img.xz
 
-OMV 7 (Debian12)
+# OMV
 
 wget -O - https://github.com/OpenMediaVault-Plugin-Developers/installScript/raw/master/install | sudo bash
 
