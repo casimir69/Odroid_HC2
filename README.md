@@ -19,3 +19,5 @@ https://armbian.atomonetworks.com/archive/odroidhc4/archive/Armbian_25.5.1_Odroi
 # Script d'installation d'Open Media Vault
 
 wget -O - https://github.com/OpenMediaVault-Plugin-Developers/installScript/raw/master/install | sudo bash
+
+Voir la page Wiki pour plus de détails
