@@ -4,6 +4,8 @@ DietPi (Debian12) bookworm
 
 https://dietpi.com/downloads/images/DietPi_OdroidXU4-ARMv7-Bookworm.img.xz
 
+Armbian
+
 https://armbian.atomonetworks.com/archive/odroidxu4/archive/
 
 # Odroid_HC4 (Amlogic S905X3 2 GHz | 4 cores | ARMv8)
