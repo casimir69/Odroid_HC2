@@ -1,4 +1,4 @@
-# Odroid_HC2 (Samsung Exynos5422 2.0/1.4 GHz | 8 cores | ARMv7-A)
+# Odroid_HC2 (Samsung Exynos5422 2.0/1.4 GHz | 8 cores | ARMv7-A | archi 32bits)
 
 DietPi (Debian12) bookworm
 
@@ -8,7 +8,7 @@ Armbian
 
 https://armbian.atomonetworks.com/archive/odroidxu4/archive/
 
-# Odroid_HC4 (Amlogic S905X3 2 GHz | 4 cores | ARMv8)
+# Odroid_HC4 (Amlogic S905X3 2 GHz | 4 cores | ARMv8 | archi 64bits)
 
 DietPi (Debian 12) bookworm
 
