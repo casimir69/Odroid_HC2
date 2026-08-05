@@ -18,8 +18,8 @@ Armbian
 
 https://armbian.atomonetworks.com/archive/odroidhc4/archive/Armbian_25.5.1_Odroidhc4_bookworm_current_6.12.28_minimal.img.xz
 
-# Script d'installation d'Open Media Vault
+# Script d'installation d'Open Media Vault 8
 
 wget -O - https://github.com/OpenMediaVault-Plugin-Developers/installScript/raw/master/install | sudo bash
 
-Voir la page Wiki pour plus de détails
+Voir la page Wiki pour plus de détails pour les autres version
